@@ -5,7 +5,7 @@
 ModuleToProcess = 'OutlookTools.psm1'
 
 # Version number of this module.
-ModuleVersion = '1.0.0.0'
+ModuleVersion = '2.0.0.0'
 
 # ID used to uniquely identify this module
 GUID = 'ecf1a685-a485-42f9-bbd8-a1161701d8df'
